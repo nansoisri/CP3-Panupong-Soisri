@@ -1,4 +1,3 @@
-text = ""
 number = int(input())
 for i in range(number):
     space = " "*int(((number*2)-2)/2)
