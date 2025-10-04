@@ -5,11 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="11dc5858-4085-4948-b3f7-dfe80c936dda" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/csvFileAndRead.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/employee_birthday.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jSonReadAndWrite.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lecture73_Panupong_S.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lecture73_Panupong_S.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,6 +48,7 @@
     "Python.Test.executor": "Run",
     "Python.csv.executor": "Run",
     "Python.csvFileAndRead.executor": "Run",
+    "Python.jSonReadAndWrite.executor": "Run",
     "Python.main.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
