@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="11dc5858-4085-4948-b3f7-dfe80c936dda" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/eventDrivenProgramming.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BMI.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -34,6 +34,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.BMI.executor": "Run",
     "Python.Exercise10_Panupong_S.executor": "Run",
     "Python.Exercise11_Panupong_S.executor": "Run",
     "Python.Exercise4_Panupong_S.executor": "Run",
