@@ -10,6 +10,6 @@ file.write("Haha From Next Lecture")
 file = open("demo.txt", "a")
 file.write("Haha From Next Lecture")
 
-#create
+#cre
 file = open("demo1.txt", "x")
 file.write("Haha From Next Lecture")

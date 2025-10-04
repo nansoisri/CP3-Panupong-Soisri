@@ -5,8 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="11dc5858-4085-4948-b3f7-dfe80c936dda" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/jSonReadAndWrite.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/introWidget.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/intro_tkinter.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,9 +47,11 @@
     "Python.Lecture54_Panupong_S.executor": "Run",
     "Python.Lecture71_Panupong_S.executor": "Run",
     "Python.Operator.executor": "Run",
+    "Python.Python3tkinter.executor": "Run",
     "Python.Test.executor": "Run",
     "Python.csv.executor": "Run",
     "Python.csvFileAndRead.executor": "Run",
+    "Python.introWidget.executor": "Run",
     "Python.jSonReadAndWrite.executor": "Run",
     "Python.main.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
