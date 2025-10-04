@@ -15,4 +15,4 @@ while True:
     else:
         menuList.append([menuName, systemMenu[menuName]])
 
-showBill() 
+showBill()

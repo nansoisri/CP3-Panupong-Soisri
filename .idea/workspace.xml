@@ -4,7 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="11dc5858-4085-4948-b3f7-dfe80c936dda" name="Changes" comment="" />
+    <list default="true" id="11dc5858-4085-4948-b3f7-dfe80c936dda" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/csvFileAndRead.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/employee_birthday.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lecture73_Panupong_S.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lecture73_Panupong_S.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,9 +26,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 5
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
   <component name="ProjectId" id="2zNKIsLrW1FS7DnGAcRCukQgCzg" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -31,7 +37,20 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.Exercise10_Panupong_S.executor": "Run",
+    "Python.Exercise11_Panupong_S.executor": "Run",
     "Python.Exercise4_Panupong_S.executor": "Run",
+    "Python.Exercise5_1_Panupong_S.executor": "Run",
+    "Python.Exercise5_2_Panupong_S.executor": "Run",
+    "Python.Exercise8_Panupong_S.executor": "Run",
+    "Python.If_else_Conditions.executor": "Run",
+    "Python.Lecture50_Panupong_S.executor": "Run",
+    "Python.Lecture54_Panupong_S.executor": "Run",
+    "Python.Lecture71_Panupong_S.executor": "Run",
+    "Python.Operator.executor": "Run",
+    "Python.Test.executor": "Run",
+    "Python.csv.executor": "Run",
+    "Python.csvFileAndRead.executor": "Run",
     "Python.main.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
@@ -78,7 +97,6 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-js-predefined-d6986cc7102b-b26f3e71634d-JavaScript-PY-251.26094.141" />
         <option value="bundled-python-sdk-9f8e2b94138c-36ea0e71a18c-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-251.26094.141" />
       </set>
     </attachedChunks>
@@ -91,14 +109,37 @@
       <option name="presentableId" value="Default" />
       <updated>1751566014341</updated>
       <workItem from="1751566015771" duration="2337000" />
+      <workItem from="1751644186137" duration="54740000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/CP3_Panupong_Soisri$If_else_Conditions.coverage" NAME="If_else_Conditions Coverage Results" MODIFIED="1751727456470" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/CP3_Panupong_Soisri$Exercise10_Panupong_S.coverage" NAME="Exercise10_Panupong_S Coverage Results" MODIFIED="1751894708668" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/CP3_Panupong_Soisri$Operator.coverage" NAME="Operator Coverage Results" MODIFIED="1751689992595" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/CP3_Panupong_Soisri$Exercise4_Panupong_S.coverage" NAME="Exercise4_Panupong_S Coverage Results" MODIFIED="1751567303322" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/CP3_Panupong_Soisri$main.coverage" NAME="main Coverage Results" MODIFIED="1751566781414" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/CP3_Panupong_Soisri$Lecture50_Panupong_S.coverage" NAME="Lecture50_Panupong_S Coverage Results" MODIFIED="1752383808974" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/CP3_Panupong_Soisri$Exercise5_2_Panupong_S.coverage" NAME="Exercise5_2_Panupong_S Coverage Results" MODIFIED="1751691183421" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/CP3_Panupong_Soisri$Test.coverage" NAME="Test Coverage Results" MODIFIED="1751741315503" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/CP3_Panupong_Soisri$Exercise11_Panupong_S.coverage" NAME="Exercise11_Panupong_S Coverage Results" MODIFIED="1752392428582" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/CP3_Panupong_Soisri$Exercise5_1_Panupong_S.coverage" NAME="Exercise5_1_Panupong_S Coverage Results" MODIFIED="1751690629085" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/CP3_Panupong_Soisri$main.coverage" NAME="main Coverage Results" MODIFIED="1752936420739" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/CP3_Panupong_Soisri$Lecture71_Panupong_S.coverage" NAME="Lecture71_Panupong_S Coverage Results" MODIFIED="1752911171841" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/CP3_Panupong_Soisri$Exercise8_Panupong_S.coverage" NAME="Exercise8_Panupong_S Coverage Results" MODIFIED="1751737186581" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/CP3_Panupong_Soisri$Lecture54_Panupong_S.coverage" NAME="Lecture54_Panupong_S Coverage Results" MODIFIED="1752390975128" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
