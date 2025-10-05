@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="11dc5858-4085-4948-b3f7-dfe80c936dda" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Lecture104_Panupong_S.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Getter and Setter.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/overriding.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -42,6 +43,7 @@
     "Python.Exercise5_1_Panupong_S.executor": "Run",
     "Python.Exercise5_2_Panupong_S.executor": "Run",
     "Python.Exercise8_Panupong_S.executor": "Run",
+    "Python.Getter and Setter.executor": "Run",
     "Python.If_else_Conditions.executor": "Run",
     "Python.Lecture50_Panupong_S.executor": "Run",
     "Python.Lecture54_Panupong_S.executor": "Run",
@@ -55,6 +57,7 @@
     "Python.introWidget.executor": "Run",
     "Python.jSonReadAndWrite.executor": "Run",
     "Python.main.executor": "Run",
+    "Python.overriding.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "main",
